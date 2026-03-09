@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Node.js 마스터 가이드",
+    "author": "김서버",
+    "price": 25000,
+    "category": "IT",
+    "stock": 5
+  },
+  {
+    "id": 2,
+    "title": "자바스크립트의 비밀",
+    "author": "이클로저",
+    "price": 32000,
+    "category": "IT",
+    "stock": 12
+  },
+  {
+    "id": 3,
+    "title": "리액트 디자인 패턴",
+    "author": "박프론트",
+    "price": 28000,
+    "category": "IT",
+    "stock": 0
+  },
+  {
+    "id": 4,
+    "title": "심리학의 이해",
+    "author": "최마음",
+    "price": 18000,
+    "category": "인문",
+    "stock": 8
+  },
+  {
+    "id": 5,
+    "title": "경제학 원론",
+    "author": "정재테크",
+    "price": 22000,
+    "category": "경제",
+    "stock": 3
+  }
+]
